@@ -1,1 +1,1 @@
-Live app - (Imagify.ai)[https://imagify-ai-4376.onrender.com]
+Live here - [Imagify.ai](https://imagify-ai-4376.onrender.com)
