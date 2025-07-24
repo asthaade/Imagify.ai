@@ -64,7 +64,7 @@ To get a local copy up and running follow these simple steps.
    CURRENCY=
    ``` 
 
-   - Create a `.env` root file in the frontend directory, containing the following variables:
+- Create a `.env` root file in the frontend directory, containing the following variables:
 
     ```env
     VITE_BACKEND_URL=
@@ -101,5 +101,5 @@ Contributions are what make the open-source community such an amazing place to l
 
 Astha Ade - [GitHub](https://github.com/asthaade)
 
-Project Link: [https://github.com/exclusiveabhi/react-job-portal.git](https://github.com/exclusiveabhi/react-job-portal.git)
+Project Link: [https://github.com/asthaade/Imagify.ai.git](https://github.com/asthaade/Imagify.ai.git)
 
