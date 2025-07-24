@@ -10,7 +10,7 @@ const Testimonials = () => {
         viewport={{once:true}}
         >
             <h1 className="text-3xl sm:text-4xl font-semibold mb-2">Customer testimonials</h1>
-            <p className="text-gray-500 mb-12">What Our Users Are Saying</p>
+            <p className="text-gray-500 mb-12">Why Users Love Us?</p>
 
             <div className="flex flex-wrap gap-6">
                 {testimonialsData.map((testimonial, index)=>(

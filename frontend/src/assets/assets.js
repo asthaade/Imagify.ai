@@ -73,21 +73,21 @@ export const testimonialsData = [
         name:'Donald Jackman',
         role:'Graphic Designer',
         stars:5,
-        text:`I've been using bg.removal for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.`
+        text:`I’ve been using this tool to generate images from text for my social media posts — super easy to use and saves so much time!`
     },
     {
         image:profile_img_2,
         name:'Richard Nelson',
         role:'Content Creator',
         stars:4,
-        text:`I've been using bg.removal for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.`
+        text:`Perfect for content creators! I use it many times to turn ideas into visuals. The results are always impressive and quick.`
     },
     {
         image:profile_img_1,
         name:'Donald Jackman',
         role:' Graphic Designer',
         stars:5,
-        text:`I've been using bg.removal for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.`
+        text:`This tool made my design process so much smoother. Just type a few words and get a ready-to-use image — love it!`
     },
 ]
 
