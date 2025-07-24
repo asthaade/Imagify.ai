@@ -4,12 +4,12 @@ A full-stack AI-powered image generation app using the **MERN stack** (MongoDB, 
 
 ## Features
 
-- **Convert user text or prompts into unique AI-generated images.
-- **Modern frontend with **React 19** and **Vite**
-- **Backend with **Node.js** **Express** and **MongoDB**
-- **Secure user data with **JWT** and **bcrypt**
-- **Image data managed and stored with MongoDB.
-- **Razorpay integration for potential premium features (optional)
+- Convert user text or prompts into unique AI-generated images.
+- Modern frontend with **React 19** and **Vite**
+- Backend with **Node.js** **Express** and **MongoDB**
+- Secure user data with **JWT** and **bcrypt**
+- Image data managed and stored with MongoDB.
+- Razorpay integration for potential premium features (optional)
 
 ## Technologies Used
 
@@ -20,8 +20,6 @@ A full-stack AI-powered image generation app using the **MERN stack** (MongoDB, 
 
 ## 📸 Demo
 Live here - [Imagify.ai](https://imagify-ai-4376.onrender.com)
-
-![Demo Screenshot](./assets/demo.png)
 
 ## Getting Started
 
