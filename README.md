@@ -19,9 +19,9 @@ A full-stack AI-powered image generation app using the **MERN stack** (MongoDB, 
 - **Deployment:** Render, MongoDB Atlas (database)
 
 ## 📸 Demo
-[Imagify.ai](https://imagify-ai-4376.onrender.com)
+Live here - [Imagify.ai](https://imagify-ai-4376.onrender.com)
 
-![Demo Screenshot](./frontend/src/assets/demo.png)
+![Demo Screenshot](./assets/demo.png)
 
 ## Getting Started
 
