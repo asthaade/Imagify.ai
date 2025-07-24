@@ -35,6 +35,7 @@ To get a local copy up and running follow these simple steps.
 1. Clone the repo:
    ```sh
    git clone https://github.com/asthaade/Imagify.ai.git
+   
    ```
 2. Install NPM packages:
 
@@ -51,25 +52,24 @@ To get a local copy up and running follow these simple steps.
 
 4. Set up environment variables:
 
-   - Create a `.env` root file in the backend directory, containing the following variables:
+- Create a `.env` file in the **backend** directory with the following content:
 
    ```env
-  MONGODB_URI=
-  JWT_SECRET=
-  FRONTEND_URL=
-  CLIPDROP_API=
-  RAZORPAY_KEY_ID=
-  RAZORPAY_KEY_SECRET=
-  CURRENCY=
-   ```
+   MONGODB_URI=
+   JWT_SECRET=
+   FRONTEND_URL=
+   CLIPDROP_API=
+   RAZORPAY_KEY_ID=
+   RAZORPAY_KEY_SECRET=
+   CURRENCY=
+   ``` 
 
    - Create a `.env` root file in the frontend directory, containing the following variables:
 
-  ```env
-  VITE_BACKEND_URL=
-  VITE_RAZORPAY_KEY_ID=
-
-   ```
+    ```env
+    VITE_BACKEND_URL=
+    VITE_RAZORPAY_KEY_ID=
+    ```
 
    Replace each value with your specific configuration details.
 
